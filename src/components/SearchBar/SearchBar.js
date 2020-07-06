@@ -1,16 +1,16 @@
-import React, { Component } from "react";
-import "./SearchBar.css";
+import React, { Component } from 'react';
+import './SearchBar.css';
 
 class SearchBar extends Component {
   constructor(props) {
     super(props);
 
-    this.state = { term: "", location: "", sortBy: "best_match" };
+    this.state = { term: '', location: '', sortBy: 'best_match' };
 
     this.sortByOptions = {
-      "Best Match": "best_match",
-      "Highest Rated": "rating",
-      "Most Reviewed": "review_count",
+      'Best Match': 'best_match',
+      'Highest Rated': 'rating',
+      'Most Reviewed': 'review_count',
     };
     this.handleTermChange = this.handleTermChange.bind(this);
     this.handleLocationChange = this.handleLocationChange.bind(this);
@@ -19,9 +19,9 @@ class SearchBar extends Component {
 
   getSortByClass(sortByOption) {
     if (this.state.sortBy === sortByOption) {
-      return "active";
+      return 'active';
     } else {
-      return "";
+      return '';
     }
   }
 
@@ -59,8 +59,7 @@ class SearchBar extends Component {
         <li
           className={this.getSortByClass(sortByOptionValue)}
           key={sortByOptionValue}
-          onClick={this.handleSortByChange.bind(this, sortByOptionValue)}
-        >
+          onClick={this.handleSortByChange.bind(this, sortByOptionValue)}>
           {sortByOption}
         </li>
       );
