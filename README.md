@@ -33,7 +33,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-> To get a local copy up and running follow these simple example steps.
+> To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ No test have been added to this project
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - Github: [@fabricio-garcia](https://github.com/fabricio-garcia)
 - Twitter: [@this_fab](https://twitter.com/this_fab)
