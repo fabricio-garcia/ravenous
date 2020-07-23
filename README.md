@@ -67,9 +67,9 @@ Additional description about the project and its features.
 
 No test have been added to this project
 
-## Authors
+## Author
 
-👤 **Author**
+👤 **Fabricio Garcia**
 
 - Github: [@fabricio-garcia](https://github.com/fabricio-garcia)
 - Twitter: [@this_fab](https://twitter.com/this_fab)
