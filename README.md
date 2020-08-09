@@ -72,7 +72,7 @@ No test have been added to this project
 👤 **Fabricio Garcia**
 
 - Github: [@fabricio-garcia](https://github.com/fabricio-garcia)
-- Twitter: [@this_fab](https://twitter.com/this_fab)
+- Twitter: [@fabgrel10](https://twitter.com/fabgrel10)
 - Linkedin: [@fabricio-garcia](https://linkedin.com/fabricio-garcia)
 
 ## 🤝 Contributing
